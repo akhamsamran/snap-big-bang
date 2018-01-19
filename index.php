@@ -9,7 +9,7 @@
 /*function name(string $name, float $stubbornness) :*/
 
 
-<?php
+
 class BigBangScientist {
     public $name;
     public $stubborness;
